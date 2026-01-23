@@ -3,8 +3,8 @@
 I'm a gameplay developer by formal education. My areas of interest are:
 - Game Level Design
 - Systems programming
-- concurrency
-- performance-critical software
+- Concurrency
+- Performance-critical software
 
 ---
 
